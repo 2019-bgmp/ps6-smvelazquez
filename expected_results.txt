@@ -1,0 +1,13 @@
+number of contigs: 5
+maximum contig lenth: 2174.0
+mean physical length: 989.6
+total length of genome assembly: 4948.0
+mean depth of coverage: 179.009
+N_50: 1156.0
+Distribution:
+0-99 = 0
+200 - 299 = 1
+500 - 599 =1
+800 - 899 = 1
+1100 - 1199 = 1
+2100 - 2199 = 1
